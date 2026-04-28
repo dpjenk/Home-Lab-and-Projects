@@ -1,4 +1,4 @@
-# Home-Lab-and-Projects
+# Home-Lab
 
 This is my home lab virtual setup using VirtualBox:
 
